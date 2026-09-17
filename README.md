@@ -36,7 +36,7 @@ Detail-oriented Validation Engineer with 2+ years of experience in semiconductor
 * **Data Analytics Intern** | Upcode Software Labs L.L.P | Feb 2026 – Sept 2026
   * Worked on live data analytics projects utilizing Data Analytics, SQL, Python, Excel, and Power BI.
   * Developed robust data strategies, structured analysis workflows, and ensured all project deliverables and deadlines were met successfully.
-* **Validation Engineer - Tester II-Semiconductor Product ** | UST, Trivandrum, India | July 2021 – June 2023
+* **Validation Engineer - Tester II-Semiconductor Product** | UST, Trivandrum, India | July 2021 – June 2023
   * Performed virtual testing and validation of semiconductor hardware platforms and executed functional, regression, system, and performance testing.
   * Conducted firmware flashing and tested security features including TPM, BIOS Guard, Boot Guard, and BitLocker.
   * Identified and debugged hardware/software issues through structured root cause analysis and logged/tracked defects using JAMA and HSD tools.
