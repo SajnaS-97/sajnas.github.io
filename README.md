@@ -27,8 +27,8 @@ Detail-oriented Validation Engineer with 2+ years of experience in semiconductor
 ---
 
 ## 🎓 Education
-* *Master of Computer Applications (MCA)* | University of Kerala, 2020
-* *BSc Computer Science* | University of Kerala, 2018
+* **Master of Computer Applications (MCA)** | University of Kerala, 2020
+* **BSc Computer Science** | University of Kerala, 2018
 
 ---
 
