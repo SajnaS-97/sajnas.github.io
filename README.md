@@ -1,7 +1,7 @@
 # Hi, I'm Sajna S
 
 *Data Analyst & Validation Engineer* | Doha, Qatar  
-[sajnas4749@gmail.com](mailto:sajnas4749@gmail.com) | +974 55004038
+[sajnas4749@gmail.com](mailto:sajnas4749@gmail.com) | +974 55004038 | [LinkedIn](https://www.linkedin.com/in/sajna-s/)
 
 ---
 
