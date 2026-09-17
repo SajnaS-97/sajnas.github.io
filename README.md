@@ -41,10 +41,6 @@ Detail-oriented Validation Engineer with 2+ years of experience in semiconductor
   * Conducted firmware flashing and tested security features including TPM, BIOS Guard, Boot Guard, and BitLocker.
   * Identified and debugged hardware/software issues through structured root cause analysis and logged/tracked defects using JAMA and HSD tools.
   * Collaborated with development teams in Agile sprint cycles and conducted benchmark testing to analyze and optimize system performance.
- * Performed virtual testing and validation of semiconductor hardware platforms and executed functional, regression, system, and performance testing.
-    * Conducted firmware flashing and tested security features including TPM, BIOS Guard, Boot Guard, and BitLocker.
-    * Identified and debugged hardware/software issues through structured root cause analysis and logged/tracked defects using JAMA and HSD tools.
-    * Collaborated with development teams in Agile sprint cycles and conducted benchmark testing to analyze and optimize system performance.
   
 ---
 ## 📜 Certifications
